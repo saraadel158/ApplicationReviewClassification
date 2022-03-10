@@ -11,3 +11,4 @@ The goal was to build a classifier and classify all the reviews to be ready for 
 4) Adding more labeled samples as currently the labeled dataset unbalanced 
 5) Explore more text representation techniques and algorithms for better accuracy 
 6) Explore classified data analysis/statistics 
+7) Create executable with gui
